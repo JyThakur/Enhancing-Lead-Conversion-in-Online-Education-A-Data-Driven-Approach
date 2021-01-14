@@ -1,0 +1,2 @@
+# Online_Education_Logistic_Regression
+A online education institute wants to convert 80% of the customers visiting their website to enroll for the Course they are searching which currently is around 30%. Using Data Processing steps like data understanding, cleaning, analyzing with the help of different python libraries, graphs and charts I had decided to use Logistic Regression to answer factors that could help them to focus on those factors that could help them in converting those leads.
