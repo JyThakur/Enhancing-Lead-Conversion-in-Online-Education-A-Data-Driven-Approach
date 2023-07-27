@@ -1,2 +1,4 @@
-# Online_Education_Logistic_Regression
-A online education institute wants to convert 80% of the customers visiting their website to enroll for the Course they are searching which currently is around 30%. Using Data Processing steps like data understanding, cleaning, analyzing with the help of different python libraries, graphs and charts I had decided to use Logistic Regression to answer factors that could help them to focus on those factors that could help them in converting those leads.
+# Enhancing Lead Conversion in Online Education: A Data-Driven Approach
+<p align='justify'>
+The aim of an online education institute is to enhance the conversion rate of website visitors into course enrollees from the existing 30% to 80%. To achieve this objective, a systematic data processing approach encompassing data understanding, cleaning, and analysis was adopted, employing various Python libraries along with graphical representations. The utilization of Logistic Regression as the chosen analytical technique seeks to identify influential factors that could optimize lead conversion strategies and effectively focus on enhancing enrolment rates.
+</p>
